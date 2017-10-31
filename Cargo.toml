@@ -1,0 +1,7 @@
+[workspace]
+
+members = ["frobulate","enhunt"]
+
+[patch.crates-io]
+enhunt = { path = "enhunt" }
+

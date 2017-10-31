@@ -1,0 +1,7 @@
+[package]
+name = "enhunt"
+version = "0.1.0"
+authors = ["Rob Tsuk <robtsuk@google.com>"]
+
+[dependencies]
+rand = "0.3.17"

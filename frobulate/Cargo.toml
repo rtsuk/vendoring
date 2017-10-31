@@ -1,0 +1,8 @@
+[package]
+name = "frobulate"
+version = "0.1.0"
+authors = ["Rob Tsuk <robtsuk@google.com>"]
+
+[dependencies]
+enhunt = "0.1.0"
+bitflags = "1.0.0"
